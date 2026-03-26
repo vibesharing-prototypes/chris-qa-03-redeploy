@@ -1,2 +1,14 @@
-# chris-qa-03-redeploy
-Prototype: QA-03 Redeploy - Deployed via VibeSharing
+# QA-03 Redeploy
+
+Deployed via [VibeSharing](https://vibesharing.app).
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to main branch - changes go live automatically.
